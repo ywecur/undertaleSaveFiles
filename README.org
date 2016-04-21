@@ -1,0 +1,6 @@
+* Save files created by [[https://www.reddit.com/user/HylianAngel][HylianAngel]]
+
+* How to change the character's name
+    1. Open up file0, file9, and undertale.ini with Notepad or a similar program.
+    2. Change "Rose" into your desired name.
+    3. Save and done!
